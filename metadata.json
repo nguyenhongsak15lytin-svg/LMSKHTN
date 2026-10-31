@@ -1,0 +1,6 @@
+{
+  "name": "EduCore LMS - Hệ Thống Quản Lí Học Tập",
+  "description": "Hệ thống quản lí học tập toàn diện (LMS) với phân quyền Giáo viên (/admin) và Học sinh (/app), chấm điểm Rubric, tích hợp Google Sheets database và trợ lý AI Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
